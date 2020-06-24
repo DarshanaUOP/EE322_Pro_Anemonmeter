@@ -6,4 +6,5 @@
 <p><img src = "out/artifacts/EE322_Pro_Anemonemeter_jar/UI.JPG" height = 500><br></p>
 
 ### LINKS
-[Click here](https://github.com/DarshanaUOP/EE322_Pro_Anemonmeter/raw/master/out/artifacts/EE322_Pro_Anemonemeter_jar/EE322_Pro_Anemonemeter.jar) to download .jar file
+[Click here](https://github.com/DarshanaUOP/EE322_Pro_Anemonmeter/raw/master/out/artifacts/EE322_Pro_Anemonemeter_jar/EE322_Pro_Anemonemeter.jar) to download .jar file.
+[Click here](https://github.com/DarshanaUOP/EE322_Pro_Anemonmeter/raw/master/out/artifacts/EE322_Pro_Anemonemeter_jar/setup%20anemometer.exe) to download windows installer.
